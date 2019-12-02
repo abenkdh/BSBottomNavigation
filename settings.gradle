@@ -1,0 +1,2 @@
+include ':app', ':bsbottomnavigation'
+rootProject.name='BS Bottom Navigation'
